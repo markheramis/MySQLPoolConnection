@@ -1,0 +1,7 @@
+dbhost myHost
+port 3306
+user myUser 
+password myPassword
+database myDatabase
+table myTable
+connections 3 
